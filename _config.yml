@@ -102,7 +102,7 @@ avatar: /assets/img/avatar/avatar.webp
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-toc: true
+toc: true 
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
