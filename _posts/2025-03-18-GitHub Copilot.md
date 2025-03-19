@@ -98,7 +98,7 @@ VS Code 내에서 AI와 대화하며 코딩 작업을 수행할 수 있는 채�
 - **Windows / Linux**: `Shift+ Ctrl+ i`
 - **macOS**: `Shift+ Command+ i`
 
-![이미지](assets\img\copilot\Pasted image 20250318120104.png)
+![이미지](https://github.com/DreamyDreamss/DreamyDreamss.github.io/blob/aa1e871f7cd92989b103c29d1efba90b4299297c/assets/img/copilot/Pasted%20image%2020250318111852.png)
   VS Code 상단 메뉴에서 `Open Chat (Ctrl + Alt + I)`을 선택하여 Copilot Chat을 활성화하여 간단한 코드생성요청을 하는 예시입니다. 
 
 ![이미지](assets\img\copilot\Pasted image 20250318120704.png)
