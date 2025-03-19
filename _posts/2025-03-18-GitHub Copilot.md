@@ -98,11 +98,10 @@ VS Code 내에서 AI와 대화하며 코딩 작업을 수행할 수 있는 채�
 - **Windows / Linux**: `Shift+ Ctrl+ i`
 - **macOS**: `Shift+ Command+ i`
 
-![[Pasted image 20250318120104.png]]
+![이미지](assets\img\copilot\Pasted image 20250318120104.png)
   VS Code 상단 메뉴에서 `Open Chat (Ctrl + Alt + I)`을 선택하여 Copilot Chat을 활성화하여 간단한 코드생성요청을 하는 예시입니다. 
 
-
-![[Pasted image 20250318120704.png]]
+![이미지](assets\img\copilot\Pasted image 20250318120704.png)
 
 소스코드 위에 커서 포커스를 하면 4개의 버튼이 노출되며,
 1. Apply in Editor  : 활성화 된 에디터에 소스를 적용
@@ -115,7 +114,8 @@ VS Code 내에서 AI와 대화하며 코딩 작업을 수행할 수 있는 채�
 #### 2.2.3 인라인 채팅
 
 코드 블록을 선택하여 직접적인 수정이나 개선을 요청할 수 있습니다.
-![[Pasted image 20250318121518.png]]
+
+![이미지](assets\img\copilot\Pasted image 20250318121518.png)
 
 #### **🔹 단축키**
 
@@ -137,7 +137,8 @@ VS Code 내에서 AI와 대화하며 코딩 작업을 수행할 수 있는 채�
 
 **Quick Chat**은 Copilot의 **Open Chat 기능과 유사하지만, 차이점이 있습니다.**  
 Open Chat은 대화 기록을 유지하며 심층적인 코드 생성과 분석이 가능하지만, **Quick Chat은 단순한 코드 수정이나 빠른 답변을 제공하는 데 초점을 맞추고 있습니다.**
-  ![[Pasted image 20250318150418.png]]
+  ![이미지](assets\img\copilot\Pasted image 20250318150418.png)
+
 - **Windows / Linux**: `Shift+ Ctrl+ i`
 - **macOS**: `Shift+ Command+ i`
 
