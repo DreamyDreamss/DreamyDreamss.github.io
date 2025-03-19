@@ -236,6 +236,7 @@ Copilot을 활용하여 코드 오류를 쉽게 수정할 수 있습니다.  
 
 ### **📌 코드 리팩토링 가이드**
 
+
 | **주제**                      | **설명**                                                                             | **링크**                                                                                                                                        |
 | :-------------------------- | :--------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
 | **코드 가독성과 유지보수성 향상**        | 변수 이름 개선, 중첩된 논리 줄이기, 큰 메서드 분할 등을 통해 코드의 가독성과 유지보수성을 향상시키는 방법을 다룹니다.               | [🔗 공식 문서 보기](https://docs.github.com/en/copilot/copilot-chat-cookbook/refactoring-code/improving-code-readability-and-maintainability)       |
@@ -248,6 +249,8 @@ Copilot을 활용하여 코드 오류를 쉽게 수정할 수 있습니다.  
 | **복잡한 상속 구조 단순화**           | 깊은 상속 구조를 리팩토링하여 **구성(Composition) 기반 설계**로 전환하는 방법을 설명합니다.                        | [🔗 공식 문서 보기](https://docs.github.com/en/copilot/copilot-chat-cookbook/refactoring-code/simplifying-complex-inheritance-hierarchies)          |
 | **데이터베이스 데드락 및 무결성 문제 해결**  | 데이터베이스 **데드락(Deadlock)** 및 데이터 무결성 문제를 예방하고 해결하는 전략을 설명합니다.                        | [🔗 공식 문서 보기](https://docs.github.com/en/copilot/copilot-chat-cookbook/refactoring-code/fixing-database-deadlocks-or-data-integrity-issues)   |
 | **다른 프로그래밍 언어로 코드 변환**      | 기존 코드를 **다른 프로그래밍 언어**로 변환할 때 고려해야 할 사항 및 변환 방법을 다룹니다.                             | [🔗 공식 문서 보기](https://docs.github.com/en/copilot/copilot-chat-cookbook/refactoring-code/translating-code-to-a-different-programming-language) |
+
+
 ### 3.4 코드 문서화
 
 기존 코드에 주석을 추가하거나 문서를 자동 생성하는 기능을 Copilot이 지원합니다.
