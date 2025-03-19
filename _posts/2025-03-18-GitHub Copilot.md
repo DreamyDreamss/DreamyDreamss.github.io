@@ -7,6 +7,7 @@
 
    - **1.1 GitHub Copilot 소개**
    - **1.2 학습 목적**
+
 ## 2. 🛠️ GitHub Copilot 사용법
 
    - **2.1 설치 및 설정**
@@ -68,7 +69,7 @@ GitHub Copilot은 🤖 AI 기반 코드 작성 도구로, 개발자가 코드 �
 #### 2.1.1 구독 플랜 선택 및 결제
 
 GitHub Copilot은 개인, 비즈니스, 기업 플랜으로 제공되며, 각 플랜에 따라 기능과 가격이 다릅니다.
-![[Pasted image 20250318111852.png]]
+![이미지](assets/img/copilot/Pasted image 20250318111852.png)
   
 자세한 내용은 GitHub 공식 문서를 참고하시기 바랍니다.
 - [GitHub Copilot에 대한 구독 계획](https://docs.github.com/ko/copilot/about-github-copilot/subscription-plans-for-github-copilot)
@@ -77,7 +78,7 @@ GitHub Copilot은 개인, 비즈니스, 기업 플랜으로 제공되며, 각 �
 GitHub Copilot은 현재 **Visual Studio, Visual Studio Code, JetBrains IDEs**에서 사용할 수 있습니다.  
 이 아티클에서는 **Visual Studio Code(VS Code)에서 Copilot을 사용하는 방법을 소개합니다.
 
-![[Pasted image 20250318112812.png]]
+![이미지](assets/img/copilot/Pasted image 20250318112812.png)
 
 1. VS Code의 **좌측 사이드바에서 "Extensions(확장)" 아이콘**을 클릭합니다.
 2. 검색 창에 "Copilot"을 입력합니다.
@@ -98,10 +99,10 @@ VS Code 내에서 AI와 대화하며 코딩 작업을 수행할 수 있는 채�
 - **Windows / Linux**: `Shift+ Ctrl+ i`
 - **macOS**: `Shift+ Command+ i`
 
-![이미지](https://github.com/DreamyDreamss/DreamyDreamss.github.io/blob/aa1e871f7cd92989b103c29d1efba90b4299297c/assets/img/copilot/Pasted%20image%2020250318111852.png)
+![이미지](assets/img/copilot/Pasted image 20250318120104.png)
   VS Code 상단 메뉴에서 `Open Chat (Ctrl + Alt + I)`을 선택하여 Copilot Chat을 활성화하여 간단한 코드생성요청을 하는 예시입니다. 
 
-![이미지](assets\img\copilot\Pasted image 20250318120704.png)
+![이미지](assets/img/copilot/Pasted image 20250318120704.png)
 
 소스코드 위에 커서 포커스를 하면 4개의 버튼이 노출되며,
 1. Apply in Editor  : 활성화 된 에디터에 소스를 적용
@@ -115,7 +116,7 @@ VS Code 내에서 AI와 대화하며 코딩 작업을 수행할 수 있는 채�
 
 코드 블록을 선택하여 직접적인 수정이나 개선을 요청할 수 있습니다.
 
-![이미지](assets\img\copilot\Pasted image 20250318121518.png)
+![이미지](assets/img/copilot/Pasted image 20250318121518.png)
 
 #### **🔹 단축키**
 
@@ -137,7 +138,7 @@ VS Code 내에서 AI와 대화하며 코딩 작업을 수행할 수 있는 채�
 
 **Quick Chat**은 Copilot의 **Open Chat 기능과 유사하지만, 차이점이 있습니다.**  
 Open Chat은 대화 기록을 유지하며 심층적인 코드 생성과 분석이 가능하지만, **Quick Chat은 단순한 코드 수정이나 빠른 답변을 제공하는 데 초점을 맞추고 있습니다.**
-  ![이미지](assets\img\copilot\Pasted image 20250318150418.png)
+  ![이미지](assets/img/copilot/Pasted image 20250318150418.png)
 
 - **Windows / Linux**: `Shift+ Ctrl+ i`
 - **macOS**: `Shift+ Command+ i`
