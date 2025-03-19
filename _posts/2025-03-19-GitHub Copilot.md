@@ -272,9 +272,9 @@ Copilot을 활용하여 코드 오류를 쉽게 수정할 수 있습니다.  
 
 | 기능                 | 설명                                                                                                      | 관련 링크                                                                                                           |
 | ------------------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **단위 테스트 생성**      | Copilot Chat을 활용하여 기존 코드에 대한 단위 테스트 케이스를 자동으로 생성할 수 있습니다. 이를 통해 테스트 커버리지를 향상시키고, 코드의 안정성을 확보할 수 있습니다.   | [단위 테스트 생성](https://docs.github.com/en/copilot/copilot-chat-cookbook/testing-code#generate-unit-tests)          |
-| **모의 객체 생성**       | Copilot Chat을 사용하여 테스트 환경에서 필요한 모의 객체를 쉽게 생성할 수 있습니다. 이는 외부 의존성을 격리하고, 테스트의 정확성과 효율성을 높이는 데 도움이 됩니다.    | [모의 객체 생성](https://docs.github.com/en/copilot/copilot-chat-cookbook/testing-code#create-mock-objects)           |
-| **엔드 투 엔드 테스트 작성** | Copilot Chat을 통해 사용자 시나리오를 기반으로 엔드 투 엔드 테스트를 작성할 수 있습니다. 이는 전체 시스템의 동작을 검증하고, 통합된 기능의 품질을 보장하는 데 유용합니다. | [엔드 투 엔드 테스트 작성](https://docs.github.com/en/copilot/copilot-chat-cookbook/testing-code#create-end-to-end-tests) |
+| **단위 테스트 생성**      | Copilot Chat을 활용하여 기존 코드에 대한 단위 테스트 케이스를 자동으로 생성할 수 있습니다. 이를 통해 테스트 커버리지를 향상시키고, 코드의 안정성을 확보할 수 있습니다.   | [단위 테스트 생성](https://docs.github.com/en/copilot/copilot-chat-cookbook/testing-code/create-mock-objects-to-abstract-layers)          |
+| **모의 객체 생성**       | Copilot Chat을 사용하여 테스트 환경에서 필요한 모의 객체를 쉽게 생성할 수 있습니다. 이는 외부 의존성을 격리하고, 테스트의 정확성과 효율성을 높이는 데 도움이 됩니다.    | [모의 객체 생성](https://docs.github.com/en/copilot/copilot-chat-cookbook/testing-code/create-mock-objects-to-abstract-layers)           |
+| **엔드 투 엔드 테스트 작성** | Copilot Chat을 통해 사용자 시나리오를 기반으로 엔드 투 엔드 테스트를 작성할 수 있습니다. 이는 전체 시스템의 동작을 검증하고, 통합된 기능의 품질을 보장하는 데 유용합니다. | [엔드 투 엔드 테스트 작성](https://docs.github.com/en/copilot/copilot-chat-cookbook/testing-code/create-end-to-end-tests-for-a-webpage) |
 
 이러한 기능들을 활용하여 GitHub Copilot Chat은 테스트 코드 작성의 효율성을 높이고, 개발 과정에서의 생산성을 향상시킬 수 있습니다.
 
